@@ -4,14 +4,16 @@ def add(*nums):
 	for x in nums:
 		sum += x
 	return sum
+    
+print(add(4,5))
 
-print(add(4, 5))
 
 # multiplication function
 def multiply(*numbers):  
     product = 1
     for x in numbers:
         product *= x  
-    return product 
+    return product
 
-print(multiply(1, 2))
+print(multiply(1,2))
+
