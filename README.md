@@ -1,4 +1,6 @@
-SIMPLE-CALCULATOR PART 1
+#SIMPLE-CALCULATOR PART 1
+
+## Implement TDD
 
 1. Make a function that adds two numbers
 2. Make sure you can add as many numbers as you want
